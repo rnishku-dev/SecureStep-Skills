@@ -1,0 +1,6 @@
+interface:
+  display_name: "SSP Website Design Art Directions"
+  short_description: "Distinct websites with consistent, readable typography"
+  default_prompt: "Use $ssp-website-design-art-directions to build or refine this website with a clear visual identity, consistent fonts, and whole-number font sizes."
+policy:
+  allow_implicit_invocation: true
